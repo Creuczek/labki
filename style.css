@@ -1,0 +1,181 @@
+body
+{
+
+background-image:url('tlo1.jpg');
+font-family:"cursive";
+font-size:20px;
+}
+
+h1
+{
+text-align:center;
+font-size: 50px;
+font-family: 'Oleo Script', cursive;
+}
+
+h2
+{
+color: black;
+font-size: 25px;
+font-family: 'Oleo Script', cursive;
+text-align:left;
+font-style: italic;
+}
+
+
+
+h3
+{
+color: black;
+float:left;
+font-size: 20px;
+font-family: 'Merriweather', serif;
+text-align:center;
+font-style: italic;
+}
+
+
+p
+{
+color: black;
+font-size: 15px;
+font-family: 'Hind', sans-serif;
+}
+
+.strona
+{
+width: 100%;
+}
+
+.media
+{
+float: left
+}
+
+.menu
+{
+width: 100%;
+padding: 10px 0;
+text-align: center;
+}
+
+ul
+{
+color: black;
+}
+
+ol
+{
+padding:0;
+margin: 0;
+list-style-type: none;
+font-size: 20px;
+height: 35px;
+line-height: 200%;
+display: inline-block;
+height:auto;
+margin-top: 5px;
+margin-bottom: auto;
+}
+
+ol a
+{
+color: #000000;
+text-decoration: none;
+display: block;
+color: #000000;
+}
+
+ol > li
+{
+float: left;
+width: 200px;
+height:40px;
+}
+
+ol > li:hover
+{
+background-color: #464646;
+opacity:0.4;
+}
+
+ol > li:hover > a
+{
+color: black;
+opacity:1;
+}
+
+li a
+{
+color:black;
+}
+
+a:link
+{
+font-family: 'Oleo Script', cursive;
+font-size: 20px;
+color: black;
+text-decoration: none;
+}
+
+a:active
+{
+font-family: 'Oleo Script', cursive;
+font-weight: 100;
+color: #000000;
+text-decoration:none;
+}
+
+a:hover
+{
+font-family: 'Oleo Script', cursive;
+font-style: italic;
+color: #000000;
+text-decoration:none;
+}
+
+a:visited
+{
+font-family: 'Oleo Script', cursive;
+font-size: 20px;
+color: #000000;
+}
+
+
+.zawartosc
+{
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+text-align: justify;
+padding-top: 15px;
+color: black;
+}
+
+.img
+{
+text-align:center;
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+display:inline-block;
+padding-top: 15px;
+color: black;
+}
+
+
+.stopka
+{
+	text-align: center;
+	background-color: #1f1f1f;
+	padding: 10px;
+	width: auto;
+	height: auto;
+	color: white;
+	font-size: 15px;
+}
+
+.dat
+{
+margin-right :10px;
+}
